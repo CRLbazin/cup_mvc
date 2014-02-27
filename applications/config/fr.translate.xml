@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<translations>
+	<translate var="_TR_NoRouteSpecified" value="Aucune route spécifiée" />
+	<translate var="_TR_ViewNotFound" value="La vue spécifiée n'existe pas" />
+	<translate var="_TR_WrongFormatVarPage" value="Le nom de la variable doit être une chaine de caractère non nulle" />
+	<translate vars="_TR_ModuleNotFound" value="Le module spécifié est vide" /> 
+	<translate var="_TR_PageNotFound" value="Page non trouvée" />
+	<translate var="_TR_404Description" value="La page demandée n'existe pas ou n'existe plus." />
+	<translate var="_TR_Technical" value="Technique" />
+	<translate var="_TR_TechnicalError" value="Error technique" />
+	<translate var="_TR_TechnicalAlert" value="Cette partie est réservée aux développeurs" />
+	<translate var="_TR_InProgess" value="En cours" />
+	<translate var="_TR_Finished" value="Terminé" />
+	<translate var="_TR_Canceled" value="Annulé" />
+	<translate var="_TR_Proposed" value="Proposé" />
+	<translate var="_TR_no" value="Non" />
+	<translate var="_TR_yes" value="Oui" />
+</translations>

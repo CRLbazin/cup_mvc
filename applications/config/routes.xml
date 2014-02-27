@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><routes>	<!-- 404 -->	<route url="/cup/web/404" module="home" action="redirect404" name="accueil"/>		<!-- home -->	<route url="/cup/web/" module="home" action="index" name="index de la home"/>	<route url="/cup/web/home" module="home" action="index" name="index de la home"/>	</routes>

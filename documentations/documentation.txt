@@ -1,0 +1,11 @@
+Documentation
+==========================
+Codes and définitions
+---------------------------
+* 0 false
+* 1 true
+* 100 in progress
+* 101 finished
+* 102 canceled
+* 103 proposed
+* 104 valided
